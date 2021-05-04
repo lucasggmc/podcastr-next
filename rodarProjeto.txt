@@ -1,0 +1,3 @@
+servidor json- yarn server
+rodar em desenvolvimento - yarn dev
+rodar simulando prod para testar o ssg - yarn build e yarn start
